@@ -1,5 +1,5 @@
 - hi I'm rambod
-- I code python only
+- I'm a python programmer
 - I'm a minecraft player (for now)
 - I'm 13 years old
 <!---
