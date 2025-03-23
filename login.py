@@ -1,8 +1,8 @@
-emailogin1="jedimifarmayin"
-emailogin=(input('email plz'))
-passlogin=input('pass plz')
-while emailogin==emailogin1 :
-    if passlogin==123456789 :
-        print('welcome back')
-    else :
-        print('email or password is incorrect')
+email = "jedimifarmayin@gmail.com"
+passwordd = "123456789" 
+emaillog = input("Enter email: ") 
+passlog = input("Enter password: ") 
+if emaillog == email and passlog == passwordd: 
+   print("Hello! welcome to your account")
+else: 
+   print("Incorrect data given, access denied")
